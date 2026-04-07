@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6308cf9-e7fa-4cdd-b57c-7e8cc51ec0f9" name="Changes" comment="mod1 demo1 les bases">
-      <change afterPath="$PROJECT_DIR$/module_1/demo2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/demo2/script.js" afterDir="false" />
+    <list default="true" id="a6308cf9-e7fa-4cdd-b57c-7e8cc51ec0f9" name="Changes" comment="mod1 demo2 manip du dom">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/demo3/demo.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/demo3/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/demo1.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/demo1/demo1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Jest.Mon premier scénario.executor": "Coverage",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.demo1.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -45,6 +47,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "D:/Web Projects/jsAvanceRcda14/node_modules/jest",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "to.speed.mode.migration.done": "true",
@@ -55,6 +58,25 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Web Projects\jsAvanceRcda14\module_1\demo1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Mon premier scénario" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/module_1/demo3/demo.test.js" />
+      <test-names>
+        <test-name value="Mon premier scénario" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Mon premier scénario" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -70,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775546624855</updated>
-      <workItem from="1775546627098" duration="5852000" />
+      <workItem from="1775546627098" duration="7572000" />
     </task>
     <task id="LOCAL-00001" summary="mod1 demo1 les bases">
       <option name="closed" value="true" />
@@ -80,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775549343233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mod1 demo2 manip du dom">
+      <option name="closed" value="true" />
+      <created>1775554754483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775554754483</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +120,10 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="mod1 demo1 les bases" />
-    <option name="LAST_COMMIT_MESSAGE" value="mod1 demo1 les bases" />
+    <MESSAGE value="mod1 demo2 manip du dom" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod1 demo2 manip du dom" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jsAvanceRcda14$Mon_premier_scénario.info" NAME="Mon premier scénario Coverage Results" MODIFIED="1775556315979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
