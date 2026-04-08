@@ -1,6 +1,6 @@
 let characters;
 
-fetch("https://rickandmortyapi.com/api/character")
+fetch("https://rickandmortyapi.com/api/character", {method : 'GET'})
     .then((response) => response.json())
     .then((data) => {
 
