@@ -4,37 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6308cf9-e7fa-4cdd-b57c-7e8cc51ec0f9" name="Changes" comment="mod1 demo3 test avec jest">
-      <change afterPath="$PROJECT_DIR$/module_1/tp/dico.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/tp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/tp/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/tp/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="a6308cf9-e7fa-4cdd-b57c-7e8cc51ec0f9" name="Changes" comment="mod1 tp pendu">
+      <change afterPath="$PROJECT_DIR$/module_2/demo1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/demo2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/demo3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/demo3/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/demo4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2/demo4/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/tp/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/tp/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SylvainTropee"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SylvainTropee&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SylvainTropee/CourJsAvanceRcda14.git",
-    "accountId": "95aa1c64-4618-4a58-ac7e-2cccdaf70792"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SylvainTropee/CourJsAvanceRcda14.git&quot;,
+    &quot;accountId&quot;: &quot;95aa1c64-4618-4a58-ac7e-2cccdaf70792&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3C1IOyxuGE6nRWq4mBrl2OcfOwL" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,17 +54,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Jest.Mon premier scénario.executor": "Coverage",
+    "Jest.Mon premier scénario.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.demo1.js.executor": "Run",
+    "Node.js.script.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/Web Projects/jsAvanceRcda14/module_1/tp",
+    "last_opened_file_path": "D:/Web Projects/jsAvanceRcda14/module_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,11 +75,13 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.3.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web Projects\jsAvanceRcda14\module_2" />
       <recent name="D:\Web Projects\jsAvanceRcda14\module_1\tp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -108,7 +121,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775546624855</updated>
-      <workItem from="1775546627098" duration="18543000" />
+      <workItem from="1775546627098" duration="18914000" />
+      <workItem from="1775631936314" duration="4201000" />
     </task>
     <task id="LOCAL-00001" summary="mod1 demo1 les bases">
       <option name="closed" value="true" />
@@ -134,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775556521837</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mod1 tp pendu">
+      <option name="closed" value="true" />
+      <created>1775573443914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775573443914</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +168,8 @@
     <MESSAGE value="mod1 demo1 les bases" />
     <MESSAGE value="mod1 demo2 manip du dom" />
     <MESSAGE value="mod1 demo3 test avec jest" />
-    <option name="LAST_COMMIT_MESSAGE" value="mod1 demo3 test avec jest" />
+    <MESSAGE value="mod1 tp pendu" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod1 tp pendu" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/jsAvanceRcda14$Mon_premier_scénario.info" NAME="Mon premier scénario Coverage Results" MODIFIED="1775556315979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

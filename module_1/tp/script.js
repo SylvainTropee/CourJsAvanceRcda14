@@ -33,6 +33,7 @@ function displayRandomWord() {
 function checkLetter() {
     //this correspond au bouton cliqué
     const letter = this.innerText
+    this.disabled = true
 
     //transforme le mot dans le dom en tableau
     let randomDomWord = document.getElementById('wordToFind').innerText.split('')
