@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6308cf9-e7fa-4cdd-b57c-7e8cc51ec0f9" name="Changes" comment="mod3 api">
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3/tp_iss/style.css" afterDir="false" />
+    <list default="true" id="a6308cf9-e7fa-4cdd-b57c-7e8cc51ec0f9" name="Changes" comment="mod3 tp iss">
+      <change afterPath="$PROJECT_DIR$/module_3/demo3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/demo3/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3/demo2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/demo2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775546624855</updated>
       <workItem from="1775546627098" duration="18914000" />
-      <workItem from="1775631936314" duration="13782000" />
+      <workItem from="1775631936314" duration="15400000" />
     </task>
     <task id="LOCAL-00001" summary="mod1 demo1 les bases">
       <option name="closed" value="true" />
@@ -197,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775644188117</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mod3 tp iss">
+      <option name="closed" value="true" />
+      <created>1775656879577</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775656879577</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +218,8 @@
     <MESSAGE value="mod1 tp pendu" />
     <MESSAGE value="mod2 joo" />
     <MESSAGE value="mod3 api" />
-    <option name="LAST_COMMIT_MESSAGE" value="mod3 api" />
+    <MESSAGE value="mod3 tp iss" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod3 tp iss" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/jsAvanceRcda14$Mon_premier_scénario.info" NAME="Mon premier scénario Coverage Results" MODIFIED="1775556315979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
