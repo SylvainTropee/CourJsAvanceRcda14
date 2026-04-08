@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6308cf9-e7fa-4cdd-b57c-7e8cc51ec0f9" name="Changes" comment="mod1 tp pendu">
-      <change afterPath="$PROJECT_DIR$/module_2/demo1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo3/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/demo4/script.js" afterDir="false" />
+    <list default="true" id="a6308cf9-e7fa-4cdd-b57c-7e8cc51ec0f9" name="Changes" comment="mod2 joo">
+      <change afterPath="$PROJECT_DIR$/module_3/demo1/rickApi.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/demo2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3/demo2/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_1/tp/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/tp/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTTP Request" />
       </list>
     </option>
   </component>
@@ -41,6 +38,13 @@
     &quot;accountId&quot;: &quot;95aa1c64-4618-4a58-ac7e-2cccdaf70792&quot;
   }
 }</component>
+  <component name="HttpClientOnboardingState"><![CDATA[{
+  "isOnboardingCommentShown": true
+}]]></component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/requests-with-authorization.http" environment="test" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -54,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "HTTP Request.rickApi | GET request to example server.executor": "Run",
     "Jest.Mon premier scénario.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.demo1.js.executor": "Run",
@@ -88,7 +93,23 @@
       <recent name="D:\Web Projects\jsAvanceRcda14\module_1\demo1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="rickApi | GET request to example server" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.rickApi | GET request to example server">
+    <configuration name="rickApi | GET request to example server" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/module_3/demo1/rickApi.http" executionIdentifier="GET request to example server" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="Mon premier scénario" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
@@ -103,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.rickApi | GET request to example server" />
         <item itemvalue="Jest.Mon premier scénario" />
       </list>
     </recent_temporary>
@@ -122,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775546624855</updated>
       <workItem from="1775546627098" duration="18914000" />
-      <workItem from="1775631936314" duration="4201000" />
+      <workItem from="1775631936314" duration="8660000" />
     </task>
     <task id="LOCAL-00001" summary="mod1 demo1 les bases">
       <option name="closed" value="true" />
@@ -156,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775573443914</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="mod2 joo">
+      <option name="closed" value="true" />
+      <created>1775637060046</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775637060046</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +199,20 @@
     <MESSAGE value="mod1 demo2 manip du dom" />
     <MESSAGE value="mod1 demo3 test avec jest" />
     <MESSAGE value="mod1 tp pendu" />
-    <option name="LAST_COMMIT_MESSAGE" value="mod1 tp pendu" />
+    <MESSAGE value="mod2 joo" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod2 joo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/module_3/demo2/script.js</url>
+          <line>2</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/jsAvanceRcda14$Mon_premier_scénario.info" NAME="Mon premier scénario Coverage Results" MODIFIED="1775556315979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
