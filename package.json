@@ -11,6 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "jest": "^30.3.0"
+    "jest": "^30.3.0",
+    "typescript": "^6.0.2"
   }
 }
